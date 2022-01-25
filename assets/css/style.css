@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,700;1,800;1,900&display=swap');
+/* Slider Part Start */
+.container{
+    padding-bottom: 100px;
+}
+.carousel-inner{
+    background: #feeae9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.tv h2{
+    color: #ff4d94;
+}
+.buy-now-button{
+    background: linear-gradient(to bottom, #ff5398 0%,#ff2278 100%);
+    color: #ffffff;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+/* Slider Part End */
+/* Catagori Part Start */
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: #ffffff;
+}
+.cat1{
+    background: linear-gradient(to left, #ffd019 0%,#ffa033 100%);
+}
+.cat2{
+    background: linear-gradient(to left, #ff3a88 0%,#ff3484 100%);
+}
+.cat3{
+    background: linear-gradient(to left, #3f10f8 0%,#4167fd 100%);
+}
+.catagori-part img{
+    width: 130px;
+}
+/* Catagori Part End */
+/* Shoes Part Start */
+.card-text{
+    color: #707070;
+}
+.card-body h2{
+    padding-bottom: 10px;
+}
+.card-body p{
+    padding-right: 45px;
+    padding-left: 40px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    padding-bottom: 20px;
+}
+.buy-now-button2{
+    background: #000;
+    color: #ffffff;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+/* Shoes Part End */
+/* Stay Part Start */
+.stay-con{
+    background: #feeae9;
+    height: 350px;
+    border-radius: 10px;
+}
+.stay-con-main p{
+     color: #707070;
+}
+.btn{
+    border: none;
+    outline: none;
+}
+.btn-primary{
+    background: #ff297d;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
+.btn-primary:hover{
+    background: #ff297d;
+    border: none;
+}
+/* Stay Part End */
